@@ -43,6 +43,7 @@ Sample Input
 6
 7
 10
+
 Sample Output
 
 Second
